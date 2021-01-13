@@ -1,0 +1,83 @@
+#maindiv{
+    display: flex;
+    justify-content: center;
+}
+#carddiv{
+    background-image: url(Nature.jpg);
+    margin-top: 3rem;
+    height: 32rem;
+    width:  30rem;
+    border: none;
+    border-radius: 10px;
+}
+#headingSingup{
+    text-align: center;
+    color: black;
+}
+#naam-input{
+    color: black;
+    border: none;
+    border-radius: 6px;
+    margin-left: 30px;
+    padding: 9px;
+    width: 88%;
+}
+#email-input{
+    color: black;
+    border-radius: 6px;
+    border: none;
+    margin-left: 30px;
+    padding: 9px;
+    width: 88%;
+}
+#number-input{
+    color: black;
+    border-radius: 6px;
+    border: none;
+    margin-left: 30px;
+    padding: 9px;
+    width: 88%;
+}
+#password-input{
+    margin-left: 30px;
+    border: none;
+    border-radius: 6px;
+    padding: 9px;
+    width: 88%;
+}
+#singup-button:hover{
+    background-color: rgb(72, 170, 228);
+}
+#singup-button{
+    margin-left: 15%;
+    background-color: rgb(30, 238, 30);
+    border: none;
+    border-radius: 6px;
+    width: 20rem;
+    padding: 12px;
+    color: white;
+}
+#buttondiv{
+    margin-top: 2rem;
+}
+#facebookbutton{
+    width: 8rem;
+    margin-left: 1rem;
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+}
+#twbutton{
+    width: 8rem;
+    margin-left: 2rem;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(57, 161, 231);
+}
+#instrabutton{
+    width: 8rem;
+    margin-left: 2rem;
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(189, 14, 14, 0.651);
+}
