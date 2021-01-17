@@ -52,7 +52,7 @@
     margin-left: 15%;
     background-color: rgb(30, 238, 30);
     border: none;
-    border-radius: 6px;
+    border-radius:  25px;
     width: 20rem;
     padding: 12px;
     color: white;
@@ -64,20 +64,20 @@
     width: 8rem;
     margin-left: 1rem;
     border: none;
-    border-radius: 10px;
+    border-radius:  25px;
     background-color: blue;
 }
 #twbutton{
     width: 8rem;
     margin-left: 2rem;
     border: none;
-    border-radius: 10px;
+    border-radius:  25px;
     background-color: rgb(57, 161, 231);
 }
 #instrabutton{
-    width: 8rem;
+    width: 7rem;
     margin-left: 2rem;
     border: none;
-    border-radius: 10px;
+    border-radius: 25px;
     background-color: rgba(189, 14, 14, 0.651);
 }
